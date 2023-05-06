@@ -1,2 +1,4 @@
 # TrieConsole
- Learn Trie
+Trie
+
+字典樹
